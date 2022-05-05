@@ -1,6 +1,6 @@
 /*******************************************************************************
 * 
-* Description: Examples of using printf.
+* Description: Examples of using numbers.
 *
 * Author: Oussama el-figha
 *

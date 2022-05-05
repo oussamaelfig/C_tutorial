@@ -1,6 +1,6 @@
 /*******************************************************************************
 * 
-* Description: Examples of using printf.
+* Description: Examples of using comments and constants.
 *
 * Author: Oussama el-figha
 *

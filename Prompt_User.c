@@ -1,6 +1,6 @@
 /*******************************************************************************
 * 
-* Description: Examples of using printf.
+* Description: Examples of using prompt user.
 *
 * Author: Oussama el-figha
 *
