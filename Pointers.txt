@@ -1,8 +1,3 @@
-# C_tutorial
-This repo contains all my notes for C programming language
-
-# To understand more the Pointers :
-
 For people still confused on Pointers, I thought of a little analogy:
 
 Say your friend wants to know where you live. Think of your hometown as memory, with lots of houses being stored (variables), and addresses to locate them (pointers). You wouldn't show your friend, say, a picture of your house and expect them to find it quickly. Therefore, you would give your friend your house's address (a pointer), so they can locate it easily.
