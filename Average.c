@@ -27,6 +27,16 @@ int main(int argc, char const *argv[])
     {
         printf("%d,", marks[i]);
     }
+
+    int somme=0;
+
+    for (int i = 0; i < n; i++)
+    {
+        somme=somme+marks[i];
+    }
+
+    printf("\n%s %d", "the average of this list is :", somme/n);
+    
     
     
     return 0;
