@@ -41,6 +41,6 @@ int main(int argc, char const *argv[])
 
 
     //issue number 1:
-    //if i add a \n at the end of my last printf it doesn't work 
+    //if I add a \n at the end of my last printf it doesn't work 
     return 0;
 }
