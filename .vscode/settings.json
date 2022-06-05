@@ -2,6 +2,7 @@
     "C_Cpp.errorSquiggles": "Enabled",
     "files.associations": {
         "stdio.h": "c",
-        "corecrt_stdio_config.h": "c"
+        "corecrt_stdio_config.h": "c",
+        "crtdbg.h": "c"
     }
 }

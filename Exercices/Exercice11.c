@@ -8,11 +8,13 @@
 #include <stdlib.h>
 #include <string.h>
 
+
 int main(int argc, char const *argv[])
 {
     double sum=0;
     for (int i = 0; i < argc; i++)
     {
+        printf("\narg %d : %s\n\n",i, argv[i]);
         sum+=atoi(argv[i+1]);
     }
     
