@@ -5,7 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "C:/MinGW/include/c++/11.2.0",
-                "C:/MinGW/include/c++/11.2.0/x86_64-w64-mingw32"
+                "C:/MinGW/include/c++/11.2.0/x86_64-w64-mingw32",
+                "${workspaceFolder}/Stacks"
             ],
             "defines": [
                 "_DEBUG",

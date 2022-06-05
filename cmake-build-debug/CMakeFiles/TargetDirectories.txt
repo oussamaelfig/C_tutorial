@@ -1,0 +1,3 @@
+C:/Users/oussa/Desktop/Home Folder/UQAM_ÉTÉ_2022/INF3135/C_tutorial/cmake-build-debug/CMakeFiles/C_tutorial.dir
+C:/Users/oussa/Desktop/Home Folder/UQAM_ÉTÉ_2022/INF3135/C_tutorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/oussa/Desktop/Home Folder/UQAM_ÉTÉ_2022/INF3135/C_tutorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
