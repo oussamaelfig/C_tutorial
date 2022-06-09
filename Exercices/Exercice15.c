@@ -28,7 +28,7 @@ struct _etudiant {
 typedef struct _etudiant Etudiant;
 
 Etudiant *creerEtudiant(char *nom, char *prenom, char *code, const int *age) {
-    Etudiant *etud = (Etudiant *) malloc(sizeof(int));
+    Etudiant *etud = (Etudiant *) malloc(sizeof(struct _etudiant));
 
     etud->nom = malloc((strlen(nom) + 1) * sizeof(char));
     etud->prenom = malloc((strlen(prenom) + 1) * sizeof(char));
