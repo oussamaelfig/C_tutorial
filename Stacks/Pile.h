@@ -16,7 +16,7 @@ Pile creerPile( );
 
 
 /**
- * Destructeur : détruit une pile.
+ * Destructeur : dÃ©truit une pile.
  * @param a_pile (Pile *) un pointeur sur une pile construite correctement.
  * @precondition a_pile != NULL && (*a_pile) != NULL
  */
