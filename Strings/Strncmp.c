@@ -1,4 +1,4 @@
-int strncmp(const char *str1, const char *str2, size_t n);
+//int strncmp(const char *str1, const char *str2, size_t n);
 // size_t is for unassigned short
 // It compares both the string till n characters or in other words it compares first n characters of both the strings.
 

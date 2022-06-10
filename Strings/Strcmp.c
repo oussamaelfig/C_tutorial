@@ -1,4 +1,4 @@
-int strcmp(const char *str1, const char *str2);
+//int strcmp(const char *str1, const char *str2);
 
 // It compares the two strings and returns an integer value. If both the strings are same (equal) then this function would return 0 otherwise it may return a
 //  negative or positive value based on the comparison.
