@@ -30,5 +30,5 @@ int main()
 
     return 0;
 }
-
+ 
 //%s format specifier is used for strings input/output
